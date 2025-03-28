@@ -30,3 +30,6 @@ ENGINEER. HTML IS ENGINEERING. IM ENGINEER
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
