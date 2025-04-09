@@ -1,6 +1,6 @@
 ## About me:
 
-ENGINEER. HTML IS ENGINEERING. IM AN ENGINEER
+Working on it
 
 ## Experience
 
