@@ -23,7 +23,7 @@ Working on it
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Learning
-![React](https://img.shields.io/badge/React.js-React.js-blue?style=for-the-badge&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/React-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/Assembly-RISC--V-blue?style=for-the-badge&logo=riscv&logoColor=white)
